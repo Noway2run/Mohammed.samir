@@ -14,7 +14,12 @@
 </p>
 
 <p align="center">
-  🌐 <b>Based in Egypt</b> | Available for High-Impact Remote Roles & Architecture Consultations
+        <ul>
+        <li>🌍 <b>Based in:</b> Egypt</li>
+        <li>✉️ <b>Contact:</b> eng.mu.samir@gmail.com</li>
+        <li>🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/mohammed-samir-it">linkedin.com/in/mohammed-samir-it</a></li>
+      </ul>
+
 </p>
 
 ---
