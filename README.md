@@ -14,49 +14,49 @@
 </p>
 
 <p align="center">
-  🌐 <b>Based in Egypt</b> | [cite_start]Available for High-Impact Remote Roles & Architecture Consultations [cite: 3]
+  🌐 <b>Based in Egypt</b> | Available for High-Impact Remote Roles & Architecture Consultations
 </p>
 
 ---
 
 ## 🧠 Executive Summary
 
-[cite_start]Dynamic DevOps Engineer with 6+ years of core infrastructure engineering and cloud-native automation experience[cite: 6]. [cite_start]Expert at bridging the gap between development workflows and highly stable production systems[cite: 6, 9, 36].
+Dynamic DevOps Engineer with 6+ years of core infrastructure engineering and cloud-native automation experience. Expert at bridging the gap between development workflows and highly stable production systems.
 
-* [cite_start]**Core Specialties:** Scalable Infrastructure-as-Code (IaC), High-Availability Container Orchestration, Multi-Tenant Network Design, and Zero-Trust System Hardening[cite: 7, 8, 19].
-* **Philosophy:** If it has to be executed twice, automate it. [cite_start]If it handles data, secure it[cite: 9, 17, 34].
+* **Core Specialties:** Scalable Infrastructure-as-Code (IaC), High-Availability Container Orchestration, Multi-Tenant Network Design, and Zero-Trust System Hardening.
+* **Philosophy:** If it has to be executed twice, automate it. If it handles data, secure it.
 
 ---
 
 ## 📈 Enterprise Impact & Key Milestones
 
-* [cite_start]⚡ **Pipeline Acceleration:** Architected and optimized declarative Jenkins pipelines, slashing deployment time by **40%** across core workflows[cite: 13].
-* [cite_start]🤖 **Operational Efficiency:** Implemented open-source `n8n` workflow engines, reducing manual operational and sysadmin overhead tasks by **30%**.
-* [cite_start]🏗️ **Orchestration Migration:** Migrated brittle, single-host runtime deployments to highly available, multi-tenant Kubernetes configurations using network policy and ingress controls[cite: 7, 15, 16].
-* [cite_start]🛡️ **DevSecOps Governance:** Established enterprise code-quality guardrails by embedding static analysis scanners (`SonarQube`) and automated artifact validation lifecycles (`Nexus`) into active build streams.
-* [cite_start]🔒 **Infrastructure Security:** Structured multi-region VPC topologies featuring hard isolation barriers, security groups, and tightly restricted IAM role policies[cite: 8, 18, 19].
+* ⚡ **Pipeline Acceleration:** Architected and optimized declarative Jenkins pipelines, slashing deployment time by **40%** across core workflows.
+* 🤖 **Operational Efficiency:** Implemented open-source `n8n` workflow engines, reducing manual operational and sysadmin overhead tasks by **30%**.
+* 🏗️ **Orchestration Migration:** Migrated brittle, single-host runtime deployments to highly available, multi-tenant Kubernetes configurations using network policy and ingress controls.
+* 🛡️ **DevSecOps Governance:** Established enterprise code-quality guardrails by embedding static analysis scanners (`SonarQube`) and automated artifact validation lifecycles (`Nexus`) into active build streams.
+* 🔒 **Infrastructure Security:** Structured multi-region VPC topologies featuring hard isolation barriers, security groups, and tightly restricted IAM role policies.
 
 ---
 
 ## 🛠️ Deep Technical Toolkit
 
 ### 🔄 CI/CD & DevSecOps Automation
-[cite_start]`Jenkins` • `GitHub Actions` • `GitLab CI` • `SonarQube` • `Nexus Repository Manager` [cite: 54, 55, 60, 61]
+`Jenkins` • `GitHub Actions` • `GitLab CI` • `SonarQube` • `Nexus Repository Manager`
 
 ### 🎡 Container Orchestration & Runtimes
-[cite_start]`Kubernetes` • `Docker` • `Docker Compose` • `Nginx Ingress Controller` [cite: 56, 57]
+`Kubernetes` • `Docker` • `Docker Compose` • `Nginx Ingress Controller`
 
 ### ☁️ Cloud Platforms & Edge Routing
-[cite_start]`Amazon Web Services (AWS)` • `Huawei Cloud` • `Cloudflare Edge` [cite: 64, 69, 70]
+`Amazon Web Services (AWS)` • `Huawei Cloud` • `Cloudflare Edge`
 
 ### 📜 Infrastructure as Code & Core Systems
-[cite_start]`Terraform` • `YAML configuration` • `Linux Administration (Ubuntu, CentOS, Debian)` • `Bash & PowerShell` [cite: 58, 59, 72, 62]
+`Terraform` • `YAML configuration` • `Linux Administration (Ubuntu, CentOS, Debian)` • `Bash & PowerShell`
 
 ### 🚨 Enterprise Monitoring & Observability
-[cite_start]`Zabbix` • `Grafana` • `New Relic Integration` [cite: 24, 77, 78]
+`Zabbix` • `Grafana` • `New Relic Integration`
 
 ### 🔐 Networking & Gateway Defenses
-[cite_start]`FortiGate` • `Sophos Firewall Engine` • `VPC Topology` • `Site-to-Site VPN` • `Automated SSL Lifecycle` [cite: 25, 80, 82, 84]
+`FortiGate` • `Sophos Firewall Engine` • `VPC Topology` • `Site-to-Site VPN` • `Automated SSL Lifecycle`
 
 ---
 
@@ -65,7 +65,7 @@
 ### 🔹 1. Production Kubernetes Migration Blueprint
 *Standardized repository detailing a step-by-step transition from monolithic or basic compose systems to a scalable, isolated Kubernetes ecosystem.*
 * **Security & Isolation:** Implements custom Namespace segmentation alongside native RBAC profiles.
-* [cite_start]**Traffic Control:** Configures Nginx Ingress handling with edge TLS/SSL termination rules.
+* **Traffic Control:** Configures Nginx Ingress handling with edge TLS/SSL termination rules.
 * `👉 [Explore Repository Framework](https://github.com/YOUR_USERNAME/k8s-migration-blueprint)`
 
 ### 🔹 2. Enterprise DevSecOps Pipeline Fabric
