@@ -1,56 +1,138 @@
-<table>
-  <tr>
-    <td width="30%" valign="top">
-      <img src="Profile.jpg" width="100%" style="border-radius: 10px;" alt="Mohammed Samir"/>
-    </td>
-    <td width="70%" valign="top">
-      <h1>Hi, I'm Mohammed Samir 👋</h1>
-      <h3>Senior DevOps & Infrastructure Engineer</h3>
-      <p>DevOps Engineer with 6+ years of IT and infrastructure experience specializing in CI/CD pipelines, containerization, and cloud infrastructure automation. I focus on building production-grade, automated, and highly reliable systems.</p>
-      <ul>
-        <li>🌍 <b>Based in:</b> Egypt</li>
-        <li>✉️ <b>Contact:</b> eng.mu.samir@gmail.com</li>
-        <li>🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/mohammed-samir-it">linkedin.com/in/mohammed-samir-it</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="Profile.jpg" width="180" style="border-radius: 50%;" alt="Mohammed Samir"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Mohammed Samir</h1>
+<h3 align="center">Senior DevOps & Infrastructure Engineer</h3>
+
+<p align="center">
+☁️ AWS | Kubernetes | CI/CD | Automation | Linux <br>
+🌍 Egypt | Open to Remote Opportunities
+</p>
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🧠 About Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **DevOps & CI/CD** | Jenkins, Git, GitHub Actions, GitLab CI, SonarQube, Nexus |
-| **Containers & Orchestration** | Kubernetes, Docker, Docker Compose |
-| **Cloud Infrastructure** | AWS (EC2, S3, VPC, IAM), Huawei Cloud, Cloudflare |
-| **Infrastructure as Code** | Terraform, YAML Configuration |
-| **Linux & Scripting** | Ubuntu, CentOS, Debian, Bash, PowerShell |
-| **Monitoring & Observability** | Zabbix, Grafana, New Relic |
-| **Networking & Security** | FortiGate, Sophos, VPN, WAF, SSL/TLS Lifecycle |
-| **Virtualization** | VMware ESXi, Hyper-V |
+DevOps Engineer with 6+ years of experience across enterprise IT, infrastructure engineering, and cloud-native DevOps.
+
+I specialize in:
+
+- Designing production-grade CI/CD pipelines
+- Kubernetes-based deployments
+- AWS infrastructure architecture (VPC, IAM, EC2, S3)
+- Infrastructure as Code & automation
+- Secure networking & SSL lifecycle management
+
+🎯 I focus on reliability, automation, and measurable optimization.
 
 ---
 
-## 🚀 Featured Open-Source & Portfolio Projects
+## 📈 Impact & Achievements
 
-### 🏗️ 1. Production-Grade Kubernetes Migration Architecture
-*A blueprint repository demonstrating how to migrate a multi-service Docker Compose architecture to a highly available Kubernetes cluster.*
-- **Key Features:** Deployment manifests, ingress configurations, and secure namespace isolation.
-- **Tech Stack:** Kubernetes, Docker, YAML, Nginx Ingress Controller.
+✔ Reduced deployment time by **40%** through Jenkins pipeline optimization  
+✔ Reduced manual operational tasks by **30%** using n8n automation workflows  
+✔ Designed secure AWS VPC architecture with RBAC-based IAM  
+✔ Implemented SonarQube quality gates & Nexus artifact lifecycle  
+✔ Built Kubernetes deployment architecture with ingress & namespace isolation  
+✔ Managed SSL lifecycle across multi-environment production systems  
 
-### 🔄 2. Multi-Cloud CI/CD Pipeline Blueprint
-*A comprehensive automation repository showcasing secure, automated build-to-deployment lifecycles.*
-- **Key Features:** Jenkinsfile declarative pipelines, automated SonarQube code quality gates, Nexus artifact management, and secure AWS S3/EC2 deployment.
-- **Tech Stack:** Jenkins, SonarQube, Nexus, AWS IAM, Bash.
+---
 
-### 🛠️ 3. Self-Hosted Infrastructure Automation Hub
-*An open-source approach to automating internal operations and monitoring frameworks safely.*
-- **Key Features:** Infrastructure-as-code automation workflows using n8n for tasks minimization, alongside Grafana/Zabbix monitoring stack configurations.
-- **Tech Stack:** n8n, Zabbix, Grafana, Linux Administration.
+## 🔐 DevOps Philosophy
+
+- Everything as Code  
+- Security First  
+- Automate Repetitive Work  
+- Observability by Default  
+- Version Control Everything  
+- Design for Failure  
+
+---
+
+## 🛠️ Tech Stack
+
+### DevOps & CI/CD
+Jenkins • GitHub Actions • GitLab CI • SonarQube • Nexus
+
+### Containers & Orchestration
+Docker • Docker Compose • Kubernetes • Nginx Ingress
+
+### Cloud
+AWS (EC2, S3, VPC, IAM) • Huawei Cloud • Cloudflare
+
+### Infrastructure as Code
+Terraform • YAML
+
+### Systems
+Linux (Ubuntu, CentOS, Debian) • Windows Server • Active Directory
+
+### Monitoring
+Zabbix • Grafana
+
+### Networking & Security
+FortiGate • Sophos • VPN • DNS/DHCP • SSL Lifecycle
+
+---
+
+## 🏗️ Featured Architecture Projects
+
+### 🔹 Production Kubernetes Migration Blueprint
+
+Migrated multi-service Docker Compose workloads to Kubernetes.
+
+Includes:
+- Namespaces & RBAC
+- Ingress configuration
+- ConfigMaps & Secrets
+- Resource management
+- Scalable deployment strategy
+
+---
+
+### 🔹 Enterprise CI/CD Pipeline Architecture
+
+Full pipeline:
+
+Git → Jenkins → Docker Build → SonarQube → Nexus → AWS Deployment → Kubernetes Rolling Update
+
+Security:
+- IAM-based deployment
+- Artifact versioning
+- Pipeline credential isolation
+
+---
+
+### 🔹 Infrastructure Automation Hub
+
+Internal automation framework including:
+
+- n8n workflow automation
+- Monitoring stack (Zabbix + Grafana)
+- SSL expiration automation
+- Linux provisioning scripts
 
 ---
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🎓 Certifications
+
+DevOps Diploma  
+CCNA  
+MCSE  
+CompTIA A+  
+Linux Administration  
+
+---
+
+## 📫 Let's Connect
+
+LinkedIn: https://linkedin.com/in/mohammed-samir-it  
+Email: eng.mu.samir@gmail.com
