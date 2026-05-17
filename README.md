@@ -16,17 +16,6 @@
   </tr>
 </table>
 
-
-
-# Hi, I'm Mohammed Samir 👋
-### Senior DevOps & Infrastructure Engineer
-
-DevOps Engineer with 6+ years of IT and infrastructure experience specializing in CI/CD pipelines, containerization, and cloud infrastructure automation. I focus on building production-grade, automated, and highly reliable systems.
-
-- 🌍 Based in: Egypt
-- ✉️ Contact: eng.mu.samir@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/mohammed-samir-it
-
 ---
 
 ## 🛠️ Technical Toolkit
