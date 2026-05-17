@@ -66,9 +66,8 @@ Dynamic DevOps Engineer with 6+ years of core infrastructure engineering and clo
 *Standardized repository detailing a step-by-step transition from monolithic or basic compose systems to a scalable, isolated Kubernetes ecosystem.*
 * **Security & Isolation:** Implements custom Namespace segmentation alongside native RBAC profiles.
 * **Traffic Control:** Configures Nginx Ingress handling with edge TLS/SSL termination rules.
-* `👉 [Explore Repository Framework](https://github.com/YOUR_USERNAME/k8s-migration-blueprint)`
 
 ### 🔹 2. Enterprise DevSecOps Pipeline Fabric
 *An automated execution engine focusing on zero-trust application delivery pipelines.*
 ```text
-[Code Commit] ──> [Jenkins Validation] ──> [SonarQube Gate] ──> [Nexus Artifact] ──> [AWS/K8s Rollout]
+[Code Commit] ──> [Jenkins] ──> [SonarQube Gate] ──> [Nexus Artifact] ──> [AWS/K8s Rollout]
