@@ -30,23 +30,18 @@ DevOps Engineer with 6+ years of IT and infrastructure experience specializing i
 *A blueprint repository demonstrating how to migrate a multi-service Docker Compose architecture to a highly available Kubernetes cluster.*
 - **Key Features:** Deployment manifests, ingress configurations, and secure namespace isolation.
 - **Tech Stack:** Kubernetes, Docker, YAML, Nginx Ingress Controller.
-- `👉 [View Repository](https://github.com/yourusername/k8s-migration-blueprint)`
 
 ### 🔄 2. Multi-Cloud CI/CD Pipeline Blueprint
 *A comprehensive automation repository showcasing secure, automated build-to-deployment lifecycles.*
 - **Key Features:** Jenkinsfile declarative pipelines, automated SonarQube code quality gates, Nexus artifact management, and secure AWS S3/EC2 deployment.
 - **Tech Stack:** Jenkins, SonarQube, Nexus, AWS IAM, Bash.
-- `👉 [View Repository](https://github.com/yourusername/devops-cicd-pipeline)`
 
 ### 🛠️ 3. Self-Hosted Infrastructure Automation Hub
 *An open-source approach to automating internal operations and monitoring frameworks safely.*
 - **Key Features:** Infrastructure-as-code automation workflows using n8n for tasks minimization, alongside Grafana/Zabbix monitoring stack configurations.
 - **Tech Stack:** n8n, Zabbix, Grafana, Linux Administration.
-- `👉 [View Repository](https://github.com/yourusername/selfhosted-infra-automation)`
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
