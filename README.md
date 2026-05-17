@@ -1,3 +1,23 @@
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <img src="Profile.jpg" width="100%" style="border-radius: 10px;" alt="Mohammed Samir"/>
+    </td>
+    <td width="70%" valign="top">
+      <h1>Hi, I'm Mohammed Samir 👋</h1>
+      <h3>Senior DevOps & Infrastructure Engineer</h3>
+      <p>DevOps Engineer with 6+ years of IT and infrastructure experience specializing in CI/CD pipelines, containerization, and cloud infrastructure automation. I focus on building production-grade, automated, and highly reliable systems.</p>
+      <ul>
+        <li>🌍 <b>Based in:</b> Egypt</li>
+        <li>✉️ <b>Contact:</b> eng.mu.samir@gmail.com</li>
+        <li>🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/mohammed-samir-it">linkedin.com/in/mohammed-samir-it</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
 # Hi, I'm Mohammed Samir 👋
 ### Senior DevOps & Infrastructure Engineer
 
